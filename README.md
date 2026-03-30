@@ -36,6 +36,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
  <a href="https://www.linkedin.com">
   <img src="https://cdn.jsdelivr.net" alt="LinkedIn" height="30" width="40"/>
+
 </a>
   <a href="https://leetcode.com/u/r_pavani/" target="_blank" style="background-color:white; border-radius:5px; padding:5px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="LeetCode" height="30" width="40"/>
