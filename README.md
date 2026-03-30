@@ -40,7 +40,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <a href="https://leetcode.com/u/r_pavani/" target="_blank" style="background-color:white; border-radius:5px; padding:5px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="LeetCode" height="30" width="40"/>
   </a>
-  <a href="https://github.com/rpavani7989" target="_blank">
+  <a href="https://github.com/sejalofficial-developer" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
   </a>
 </p>
