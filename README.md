@@ -26,7 +26,7 @@
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🌱 Currently mastering **Advanced MERN Stack & System Design**
 - 💡 Passionate about building **full-stack, scalable, and maintainable applications**
-- 👨‍💻 All my projects are available on **[GitHub](https://github.com/rpavani7989)**
+- 👨‍💻 All my projects are available on **[GitHub](https://github.com/sejalofficial-developer)**
 - 📫 Reach me: **sejal0375@gmail.com**
 - 📄 Resume: [View Here](https://drive.google.com/file/d/1BxYr0XPddfHC22Qbpi8JfUWq4ZpDTQzO/view?usp=sharing)
 
