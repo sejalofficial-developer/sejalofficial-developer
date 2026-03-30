@@ -32,9 +32,6 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
 ## 🌐 Connect with Me
-
-## 🌐 Connect with Me
-
 <p style="display:flex; justify-content:center; align-items:center; gap:20px;">
   <a href="https://www.linkedin.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
