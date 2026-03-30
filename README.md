@@ -78,7 +78,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rpavani7989&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github.com/sejalofficial-developer" alt="GitHub Stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rpavani7989&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br>
