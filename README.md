@@ -34,7 +34,8 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🌐 Connect with Me
 
-  <a href="www.linkedin.com/in/sejal-yadav-developer" target="_blank">
+  <a href="www.linkedin.com/in/
+sejal-yadav-developer" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://leetcode.com/u/r_pavani/" target="_blank" style="background-color:white; border-radius:5px; padding:5px;">
