@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm R Pavani Naidu</h1>
+<h1 align="center">Hi 👋, I'm Sejal Yadav</h1>
 <h3 align="center"> MERN Stack Developer | Building Scalable Web Applications</h3>
 
 <img align="right" alt="coding" width="400" 
@@ -15,18 +15,18 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🌱 Currently learning **Advanced MERN Stack & System Design**
 - 💡 Passionate about building **full-stack scalable applications**
 - 👨‍💻 All of my projects are available on my **GitHub**
-- 📫 Reach me at: **pavani.nr39@gmail.com**
-- 📄 Resume: [Click Here](https://drive.google.com/file/d/1qwTnP86gPT99bZr5ME5Z1DZEttg4axpN/view?usp=sharing)
+- 📫 Reach me at: **sejal0375@gmail.com**
+- 📄 Resume: [Click Here](https://drive.google.com/file/d/1qwTnP86gPT99bZr5ME5Z1DZEttg4axpN/view?usp=sharing-)
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rpavani-sunshine/" target="blank">
+  <a href="www.linkedin.com/in/sejal-yadav-developer" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/r_pavani/" target="blank" style="background-color:white; border-radius:5px; padding:5px;">
+  <a href="https://leetcode.com/u/Sejal_Yadav3/" target="blank" style="background-color:white; border-radius:5px; padding:5px;">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="40"/>
   </a>
 </p>
@@ -85,4 +85,15 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 💬 I love turning ideas into real-world applications using the MERN stack.
 
 ---
+## 📈 Contribution Snake
+
+<div align="Left">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+ <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="97%" />
+</picture>
+</div>
+
+
 
