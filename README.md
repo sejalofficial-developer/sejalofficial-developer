@@ -16,7 +16,6 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 💡 Passionate about building **full-stack scalable applications**
 - 👨‍💻 All of my projects are available on my **GitHub**
 - 📫 Reach me at: **sejal0375@gmail.com**
-- 📄 Resume: [Click Here](https://drive.google.com/file/d/1qwTnP86gPT99bZr5ME5Z1DZEttg4axpN/view?usp=sharing-)
 
 ---
 
